@@ -34,13 +34,9 @@ This project demonstrates how to scrape data from a specific YouTube channel usi
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. **Install the required packages:**
 
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-4. **Set up your YouTube Data API key:**
+5.  **Set up your YouTube Data API key:**
 
     - Go to the [Google Developers Console](https://console.developers.google.com/).
     - Create a new project.
